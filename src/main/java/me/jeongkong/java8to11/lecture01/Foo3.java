@@ -1,4 +1,4 @@
-package me.jeongkong.java8to11;
+package me.jeongkong.java8to11.lecture01;
 
 import java.util.function.Consumer;
 import java.util.function.Predicate;

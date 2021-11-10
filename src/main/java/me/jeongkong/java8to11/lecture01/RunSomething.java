@@ -1,4 +1,4 @@
-package me.jeongkong.java8to11;
+package me.jeongkong.java8to11.lecture01;
 
 @FunctionalInterface
 //이렇게 애노테이션을 사용해주면 컴파일시 에러가 발생하게 된다
