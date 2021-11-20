@@ -47,9 +47,9 @@ public class App {
         System.out.println("두 수업 목록에 들어있는 모든 수업 아이디 출력");
         jeongbinEvents.stream()
                 .flatMap(Collection::stream)
-                .forEach(oc-> System.out.println(oc.getId());
+                .forEach(oc-> System.out.println(oc.getId()));
 
-        System.out.println("10부터 1증가하는 무제한 스트림중에서 앞에 10개 빼고 최대 10개까지만";
+        System.out.println("10부터 1증가하는 무제한 스트림중에서 앞에 10개 빼고 최대 10개까지만");
         Stream.iterate(10,i-> i+1)
                 .skip(10)
                 .limit(10)
